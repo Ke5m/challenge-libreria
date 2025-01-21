@@ -1,4 +1,4 @@
-Biblioteca API
+Biblioteca challenge
 
 Este proyecto permite interactuar con la API de Gutendex para buscar libros y gestionar una base de datos local de libros y autores.
 Funcionalidades
